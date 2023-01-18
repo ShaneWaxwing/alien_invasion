@@ -1,2 +1,2 @@
 # alien_invasion
-A project towered the end of Python Crash Course by Eric Matthes.
+A project towareds the end of Python Crash Course by Eric Matthes.
